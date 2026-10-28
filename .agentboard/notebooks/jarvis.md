@@ -1,0 +1,5 @@
+# Jarvis's notebook
+
+<!-- Agent Board: rules Jarvis learned from reviews in this repo. It loads them before each session. One rule per line; edit freely. -->
+
+- Always add a line to README for new files  _(2026-10-28 · added by hand)_
